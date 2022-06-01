@@ -10,7 +10,7 @@
   
   🧾 **Contact and Record**
   
-  <a href="matilto:fksl9959@naver.com"><img src="https://img.shields.io/badge/Email-3DDC84?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:fksl9959@naver.com"><img src="https://img.shields.io/badge/Email-3DDC84?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://cold-soup.tistory.com"><img src="https://img.shields.io/badge/Tstory-FF8400?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1IvKyZ_uWddjkoP0k6z-Et0CFbW8zFm9r/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-FF0444?style=flat-square&logo=googledrive&logoColor=white"/></a>
   <br>
