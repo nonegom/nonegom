@@ -2,7 +2,8 @@
 <div align="left">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=nonegom&show_icons=true&hide=stars&theme=radical&&layout=compact&langs_count=10"/>
   
-  🌱 **I’m currently learning**: ML and DL with NLP in Boostcamp 
+  🌱 **I’m currently learning**: ML/DL with NLP and DS  
+  🙋‍♂️ **Now I'm**: Hunt for a job  
   
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white"/></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white"/></a>
