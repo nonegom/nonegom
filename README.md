@@ -5,12 +5,14 @@
   🙋‍♂️ **Now**: working at **<a href="https://web.joongna.com/?srsltid=AfmBOorkgADCNv3dnNXs34wRiyeC9k1VR1nlNjVMxq2AMsyuRgrhuVK3">Joonggonara**</a>  
   🧐 **Interested in**: ML/DL, LLM, MLOps and LLMOps
   
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3670A0?&logo=python&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/MLflow-0194E2?&logo=mlflow&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"/></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white"/></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white"/></a>
